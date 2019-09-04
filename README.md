@@ -2,7 +2,8 @@
 Backend code of iOS application "HonARu" in a hackathon "Hack U 2019 OSAKA" sponsored by Yahoo Japan.
 
 ### (祝)ヤフー賞を頂きました
-課題設定の分かりやすさや，Yahoo!ショッピングのAPI活用を評価していただきました．  
+- [Hack U 2019 OSAKA](https://hacku.yahoo.co.jp/hacku2019osaka/)  
+- 課題設定の分かりやすさや，Yahoo!ショッピングのAPI活用を評価していただきました．  
 他にも，画像の前処理や高速化を施したことに関しても，好評をいただきました．  
 ありがとうございます！
 
