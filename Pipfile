@@ -1,0 +1,20 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+flask = "*"
+gunicorn = "*"
+psycopg2-binary = "*"
+requests = "*"
+opencv-python = "*"
+numpy = "*"
+google-cloud-vision = "*"
+google-auth = "*"
+protobuf = "*"
+
+[requires]
+python_version = "3.7"
