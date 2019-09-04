@@ -29,7 +29,7 @@ Backend code of iOS application "HonARu" in a hackathon "Hack U 2019 OSAKA" spon
 ### Contributors(チーム「猫二郎」)
 - *[AyanoIkegami](https://github.com/AyanoIkegami)(Plan，Frontend)
 - [chihiro-y](https://github.com/chihiro-y)(Plan，Design)
-- [trmt-y](https://github.com/trmt-y)(Plan，Desing，Backend，Presentation)
+- [trmt-y](https://github.com/trmt-y)(Plan，Design，Backend，Presentation)
 - [KagenoMoheji](https://github.com/KagenoMoheji)(Plan，Backend)
 
 ### Notes
