@@ -7,7 +7,7 @@ Backend code of iOS application "HonARu" in a hackathon "Hack U 2019 OSAKA" spon
 ありがとうございます！
 
 ## HonARu
-![logo](https://github.com/KagenoMoheji/HonARu_back/blob/media/images/icon.png)
+![logo](https://github.com/KagenoMoheji/HonARu_back/blob/media/images/logo.png)
 - ズラッと本が並んだ本棚から，欲しい本を探すことが大変に思ったことはありませんか？
 - その問題を解決すべく，私達チーム「猫二郎」はARアプリ「HonARu」を開発しました．
 - 使い方は簡単，欲しい本のタイトルの一部やキーワードを入力して本棚にカメラを向けるだけ！
