@@ -22,6 +22,7 @@ Backend code of iOS application "HonARu" in a hackathon "Hack U 2019 OSAKA" spon
 #### Backend
 - Python3
     - Flask
+- OpenCV
 - Cloud Vision API
 - Yahoo!ショッピング 商品検索API
 - openBD 書誌情報・書影取得API
